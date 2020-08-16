@@ -1,12 +1,12 @@
 ---
-title:	"Starting blog with github.io"
-excerpt: "github.io 블로그를 시작합니다."
+title:  "github.io 블로그 시작하기"
+excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
-	- Blog
+  - Blog
 tags:
-	- Blog
-last_modified_at: 2020-08-16T21:08:00-00:00
+  - Blog
+last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
 Github blog를 시작합니다.
